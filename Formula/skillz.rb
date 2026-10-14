@@ -1,8 +1,8 @@
 class Skillz < Formula
   desc "One TUI for agent skills, plugins & MCP: Claude Code, Codex, omp, OpenCode, Gemini CLI"
   homepage "https://github.com/olekmorawski/skillz"
-  url "https://github.com/olekmorawski/skillz/archive/refs/tags/v0.2.2.tar.gz"
-  sha256 "2ca412835f8c15b7e39e6a467b8515da6957aa06638afd484c57572904fc27be"
+  url "https://github.com/olekmorawski/skillz/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "12f5d7bff87fa8221b04431b25fd71f7a17da6b905a6eca6624d4db93782c9c9"
   license "MIT"
   head "https://github.com/olekmorawski/skillz.git", branch: "main"
 
